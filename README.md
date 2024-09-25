@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wollweberi, this is my experimentation account
+- 👋 Hi, I’m @wollweberi, this is my experiments account
   
 - I love coding random stuff
 - Learning new languages, frameworks and anything new
